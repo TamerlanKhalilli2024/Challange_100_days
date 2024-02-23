@@ -19,7 +19,7 @@ BMI qiymətləndirilərkən əsasən aşağıdakı kateqoriyalar istifadə olunu
 hundurluk=float(input("Hündürlük: "))
 agirliq=int(input("Çəki: "))
 BMI=round(agirliq/((hundurluk/100)**2),3)
-print(BMI)
+print("BMI", BMI)
 if BMI < 18.5:
     print("Sizin çəkiniz normadan azdır: ")
     print("Çənizi artıram qidalardan çox istifadə edin: ")
