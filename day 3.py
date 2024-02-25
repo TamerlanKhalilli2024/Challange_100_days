@@ -28,9 +28,6 @@ Bibər əlavə (50.qr): {biber_elave} X 1 AZN.
     print("""     Çox sağolun bizi seçdiyiniz üçün!
 Pizza restoranı adından sizə təşəkkürmüzü bildirik ümid edirik ki,
 bizdən razı qaldınız əsk halda təklif və iradlarınızı sonda qeyd etməyinizi xahiş edirik...""")
-
-
-
     teklif_ve_iradlar = str(input("Təklif və iradlarınızı bizimlə bölüşün: "))
 else:
     print("Sifariş verilmədi.")
@@ -68,7 +65,6 @@ Extra Pepper (50.qr): {pepper_extra} X 1 AZN.
     print("""Thank you very much for choosing us!
 We express our gratitude to you for choosing our Pizza restaurant, we hope that you are satisfied with us,
 otherwise, please share your suggestions and feedback with us...""")
-
     suggestions_feedback = str(input("Share your suggestions and feedback with us: "))
 else:
     print("No order placed.")
