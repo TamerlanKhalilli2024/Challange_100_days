@@ -36,7 +36,7 @@ else:
     print("Sifariş verilmədi.")
 
 
-"""İNGİLİSH"""
+"""ENGİLİSH"""
 
 print("""Hello valued guests.
 Welcome to our PIZZA restaurant.
